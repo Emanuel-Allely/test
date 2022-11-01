@@ -53,7 +53,7 @@ export default function PresentationPage() {
             <GridItem>
               <div className={classes.brand}>
                 <h1>
-                  NextJS Material Kit
+                  Easy Salting
                   <span className={classes.proBadge}>PRO</span>
                 </h1>
                 <h3 className={classes.title}>
